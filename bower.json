@@ -1,0 +1,15 @@
+{
+  "name": "aa-angular-array-helpers",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AlliterativeAnimals/aa-angular-array-helpers",
+  "authors": [
+    "ReactiveRaven <reactiveraven@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
